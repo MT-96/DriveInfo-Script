@@ -7,7 +7,7 @@ This script prints various information about the storage devices currently conne
 ---------------------------------------------------------------------------------------------------------
 To install:
 
-* Name a directory ***`C:\Scripts`*** and place the .ps1 file here.
+* Name a directory ***`C:/Scripts`*** and place the .ps1 file here.
 
 * Run ***`cd C:/Scripts; ./Install-DriveInfo.ps1`***
 
