@@ -1,6 +1,6 @@
 # ℹ️ DriveInfo ℹ️
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?logo=powershell&logoColor=white) ![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white) ![Maintained](https://img.shields.io/badge/Maintained-green.svg)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?logo=powershell&logoColor=white) ![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white) ![Maintained](https://img.shields.io/badge/Maintained-green.svg) ![Build Status](https://github.com/MT-96/Driver-Info/actions/workflows/main.yml/badge.svg)
 
 
 ---------------------------------------------------------------------------------------------------------
