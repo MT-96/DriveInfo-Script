@@ -144,4 +144,4 @@ if ($profileContent -notmatch "function driveinfo") {
 }
 
 . $PROFILE
-Write-Host "DriveInfo (v1.03-1) — by MT-96_" -ForegroundColor Cyan
+Write-Host "DriveInfo (v1.0.0) — by MT-96_" -ForegroundColor Cyan
