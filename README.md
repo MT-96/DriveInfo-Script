@@ -9,7 +9,7 @@ To install:
 
 * If using **PowerShell** you can run:
 * ***`cd C:\Scripts`***
-* ***`./Install-DriveInfo.ps1`***.
+***`./Install-DriveInfo.ps1`***.
 
 * After that you'll be able to use the command **`driveinfo`** and it will print various info of connected drives.
 
