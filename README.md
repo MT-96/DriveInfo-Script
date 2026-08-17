@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=flat)](https://www.gnu.org/licenses/gpl-3.0) ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-green?style=flat&logo=powershell&logoColor=white) ![Platform Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-![GitHub Created At](https://img.shields.io/github/Created/MT-96/DriveInfo-Script?style=flat)
+![GitHub Created At](https://img.shields.io/github/Created-at/MT-96/DriveInfo-Script?style=flat)
 
 ---------------------------------------------------------------------------------------------------------
 This script prints various information about the storage devices currently connected to your Windows machine.
