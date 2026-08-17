@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=flat)](https://www.gnu.org/licenses/gpl-3.0) ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-green?style=flat&logo=powershell&logoColor=white) ![Platform Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-![Windows](https://img.shields.io/badge/-%20-0078D6?style=flat&logo=windows&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_%282012%E2%80%93present%29.svg" height="20" alt="Windows Logo">
 
 ---------------------------------------------------------------------------------------------------------
 This script prints various information about the storage devices currently connected to your Windows machine.
