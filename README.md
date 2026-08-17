@@ -1,6 +1,7 @@
 # ℹ️ DriveInfo ℹ️
 ---------------------------------------------------------------------------------------------------------
 This script prints various information about the storage devices currently connected to your Windows machine.
+
 ---------------------------------------------------------------------------------------------------------
 To install:
 
