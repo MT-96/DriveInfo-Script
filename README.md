@@ -4,7 +4,7 @@
 
 ---------------------------------------------------------------------------------------------------------
 
-This script prints various information about the storage devices currently connected to your Windows machine.
+This script prints information (including S.M.A.R.T data) for the storage devices currently connected to your Windows machine.
 
 ---------------------------------------------------------------------------------------------------------
 
