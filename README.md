@@ -18,4 +18,4 @@ To install:
 
 ---------------------------------------------------------------------------------------------------------
 
-Currently limited to what it shows but I will push updates occasionally and make it more interesting.
+Currently limited as to what it shows but I will push updates occasionally and make it more interesting.
